@@ -1,3 +1,6 @@
 [submodule "client"]
 	path = client
 	url = git@github.com:BimalRajGyawali/p2p-lending-front.git
+[submodule "server"]
+	path = server
+	url = git@github.com:808Code/p2p-lending-back.git
