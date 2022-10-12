@@ -17,7 +17,5 @@ Implemented using Java, Spring Boot, React and Postgres.
 ![LoanSuggestionService2](./media/LoanSuggestionService2.png?raw=true)
 ![LoanService2](./media/LoanService2.png?raw=true)
 ![RepaymentService](./media/RepaymentService.png?raw=true)
-
 ![BorrowerWalletService](./media/BorrowerWalletService.png?raw=true)
-
 ![LenderWalletService](./media/LenderWalletService.png?raw=true)
